@@ -1,5 +1,5 @@
 {
-    "name": "CordialExperience/beta-bandit",
+    "name": "cordialexperience/beta-bandit",
     "description": "Cordial PHP Beta Bandit Implementation",
     "keywords": ["cordial", "bandit"],
     "type": "library",
