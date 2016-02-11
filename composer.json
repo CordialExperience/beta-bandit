@@ -1,0 +1,22 @@
+{
+    "name": "cordial/beta-bandit",
+    "description": "Cordial PHP Beta Bandit Implementation",
+    "keywords": ["cordial", "bandit"],
+    "type": "library",
+    "homepage": "https://github.com/CordialExperience/beta-bandit",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Cordial Experience, Inc.",
+            "homepage": "http://cordial.io"
+        }
+    ],
+    "require": {
+        "ext-stats": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cordial\\": "src/Cordial/"
+        }
+    }
+}
