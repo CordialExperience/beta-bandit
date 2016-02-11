@@ -1,0 +1,8 @@
+762c762
+< long qinit = 0;
+---
+> static long qinit = 0;
+779c779
+< long qstate = 0;
+---
+> static long qstate = 0;
